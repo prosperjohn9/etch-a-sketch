@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    background-color: green;
+    color: red;
+}
+#reset-button {
+    margin: 10px;
+}
+#container{
+    display: grid;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+}
+.square {
+    background-color: white;
+    border: 1px solid #ccc;
+}
+.header,
+.footer,
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    margin-top: 40px;
+}
