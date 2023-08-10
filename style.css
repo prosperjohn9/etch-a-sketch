@@ -1,7 +1,7 @@
 *{
     box-sizing: border-box;
-    background-color: green;
-    color: red;
+    background-color: grey;
+    color: black;
 }
 #reset-button {
     margin: 10px;
