@@ -16,7 +16,7 @@ This project was created for the [Etch-A-Sketch](https://www.theodinproject.com/
 
 
 # Objectives
-1. Website with 16x16 grid of square <div> elements.
-2. Change color of each <div> on mouse-over.
+1. Website with 16x16 grid of square elements.
+2. Change color of each on mouse-over.
 3. Adjustable grid size, no larger than 100x100.
 4. Option to use random color per pixel.
